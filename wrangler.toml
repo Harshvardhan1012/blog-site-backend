@@ -1,0 +1,9 @@
+name = "my-app"
+compatibility_date = "2024-09-16"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzE0YThkZDktZjJkYS00MmNhLTgxNzItZWVmZDY0MjNiZDBlIiwidGVuYW50X2lkIjoiZDVmODMzNGI3MWM3NWExOGRkMTM4OWVjYTE3MTJjMmFkM2FlNDYwMDEzZGU5YTE0ZWJkYTRiZjM5ZDY0MTE4YSIsImludGVybmFsX3NlY3JldCI6IjhmMmUzYTdhLTc0M2QtNGJmOC1hZjI0LTJmMzEzMzQxNTgxNCJ9.vFsJt_Ni6vTgpDl12niqMBuMAs_wZbvIuXKS0_TJ5Cs"
+
+
+JWT_SECRET="HARSH"
